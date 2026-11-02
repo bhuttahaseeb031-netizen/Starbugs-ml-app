@@ -11,7 +11,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the dataset
-df = pd.read_csv('/content/drinks.csv')
+df = pd.read_csv('drinks.csv')
 
 # 1. Basic EDA
 print("--- Dataset Info ---")
